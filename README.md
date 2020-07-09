@@ -12,7 +12,7 @@ I'm a UK Based undergrad studying Computer Science 📚. I am currently focused 
 
 ## Some of my Repos
 
-- ### **Sorting Algorithm Visualiser** 
+- ### **Sorting Algorithm Visualiser** - [Link](https://github.com/nathanjukes/Sorting-Algorithm-Visualisation-Tool)
   This allowed me to learn a wider range of sorting algorithms whilst also being able to understand them more conceptually due to the visualisation of it.
 
 ![Demo Gif](https://github.com/nathanjukes/Sorting-Algorithm-Visualisation/blob/master/Assets/DemoRecordingCurrent.gif)
