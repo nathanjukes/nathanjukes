@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a UK Based undergrad studying Computer Science 📚. I am currently focused on .NET and am trying to branch off into a becoming a .NET Core and ASP.NET developer 🎯
+I'm a UK Based undergrad studying Computer Science 📚. I am currently focused on .NET and am trying to branch off into becoming a .NET Core and ASP.NET developer 🎯
 
 
 ## Some of my Repos
