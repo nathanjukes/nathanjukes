@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+  Nathan Jukes - @nathanjukes
+</h1>
 
-<!--
-**nathanjukes/nathanjukes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">Welcome to my GitHub Profile.</h4>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a UK Based undergrad studying Computer Science 📚. I am currently focused on .NET and am trying to branch off into a primary .NET Core and ASP.NET developer 🎯
+
+
+## Some of my Repos
+
+- ### **Sorting Algorithm Visualiser** 
+  This allowed me to learn a wider range of sorting algorithms whilst also being able to understand them more conceptually due to the visualisation of it.
+
+![Demo Gif](https://github.com/nathanjukes/Sorting-Algorithm-Visualisation/blob/master/Assets/DemoRecordingCurrent.gif)
