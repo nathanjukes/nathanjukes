@@ -20,4 +20,4 @@ I'm a UK Based undergrad studying Computer Science 📚. I am currently focused 
 - ### **Github Clone(r)** - [Link](https://github.com/nathanjukes/Git-Clone-r-)
   I created this Github Clone(r) to assist myself with backing up and mass-downloading my repos, I added more features later to make it more appealing and helpful to the majority.
 
-![Logo](https://github.com/nathanjukes/Git-Clone-r-/blob/master/Assets/Homescreen.JPG)
+![Logo](https://github.com/nathanjukes/Git-Clone-r-/blob/master/Assets/Logo.JPG)
