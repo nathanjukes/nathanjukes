@@ -15,11 +15,11 @@ I'm a UK Based undergrad studying Computer Science 📚. I am currently focused 
 - ### **Sorting Algorithm Visualiser** - [Link](https://github.com/nathanjukes/Sorting-Algorithm-Visualisation-Tool)
   This allowed me to learn a wider range of sorting algorithms whilst also being able to understand them more conceptually due to the visualisation of it.
 
-![Demo Gif](https://github.com/nathanjukes/Sorting-Algorithm-Visualisation/blob/master/Assets/DemoRecordingCurrent.gif)
+![Demo Gif](DemoRecordingCurrent.gif)
 
 - ### **Github Clone(r)** - [Link](https://github.com/nathanjukes/Git-Clone-r-)
   I created this Github Clone(r) to assist myself with backing up and mass-downloading my repos, I added more features later to make it more appealing and helpful to the majority.
 
 <p align="center">
-  <img width="668" height="138" src="https://github.com/nathanjukes/Git-Clone-r-/blob/master/Assets/Logo.JPG">
+  <img width="668" height="138" src="Logo.JPG">
 </p>
