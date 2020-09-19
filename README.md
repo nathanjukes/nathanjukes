@@ -17,9 +17,9 @@ I'm a UK Based undergrad studying Computer Science 📚. I am currently focused 
 
 ![Demo Gif](https://raw.githubusercontent.com/nathanjukes/nathanjukes/master/DemoRecordingCurrent.gif)
 
-- ### **Github Clone(r)** - [Link](https://github.com/nathanjukes/Git-Clone-r-)
-  I created this Github Clone(r) to assist myself with backing up and mass-downloading my repos, I added more features later to make it more appealing and helpful to the majority.
+- ### **URL-Titan** - [Link](https://github.com/nathanjukes/URL-Titan)
+  URL-Titan is an open-source URL Utility web app that provides extensive URL related features, such as shortening and tracking your URL, it also provides an unlimited REST API for increased productivity!
 
 <p align="center">
-  <img width="668" height="138" src="https://raw.githubusercontent.com/nathanjukes/nathanjukes/master/Logo.JPG">
+  <img src="https://raw.githubusercontent.com/nathanjukes/nathanjukes/master/Homepage.JPG">
 </p>
