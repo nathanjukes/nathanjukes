@@ -17,7 +17,7 @@ I'm a UK Based undergrad studying Computer Science 📚. I am currently focused 
 
 ![Demo Gif](https://raw.githubusercontent.com/nathanjukes/nathanjukes/master/DemoRecordingCurrent.gif)
 
-- ### **URL-Titan** - [Website](http://url-titan.nathanjukes.tech/url/uploadurl) - [GitHub Link](https://github.com/nathanjukes/URL-Titan)
+- ### **URL-Titan** - [Website](http://url-titan.nathanjukes.tech) - [GitHub Link](https://github.com/nathanjukes/URL-Titan)
   URL-Titan is an open-source URL Utility web app that provides extensive URL related features, such as shortening and tracking your URL, it also provides an unlimited REST API for increased productivity!
 
 <p align="center">
