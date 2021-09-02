@@ -25,7 +25,7 @@ I'm a UK Based undergrad studying Computer Science 📚. I am currently focused 
 </p>
 
 
-- ### **GoTify Profile Tracker** - [Website](http://gotifyprofiletracker.rf.gd/) - [GitHub Link](https://github.com/nathanjukes/GoTify-Profile-Tracker) - [Frontend Link](https://github.com/nathanjukes/GoTify-Profile-Tracker-Frontend) - [Project Link](https://github.com/users/nathanjukes/projects/1)
+- ### **GoTify Profile Tracker** - [Website (Currently being setup)]() - [GitHub Link](https://github.com/nathanjukes/GoTify-Profile-Tracker) - [Frontend Link](https://github.com/nathanjukes/GoTify-Profile-Tracker-Frontend) - [Project Link](https://github.com/users/nathanjukes/projects/1)
   GoTify Profile Tracker is a Go project written for my GoTify package. With GoTify, I hope to bring many more Spotify utilities to Go and add implementations of necessary tools that aren't currently easily accessible for Go developers. GoTify Profile Tracker uses my GoTify BuddyList Go package and provides a REST API for collecting user data from Spotify. As of 2021, Spotify seem to have no plans to add the tracking that I have to their official API, that's why I created it.
 
 <p align="center">
